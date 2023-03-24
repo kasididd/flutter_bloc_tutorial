@@ -3,11 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
+ทำไว้เป็นตัวอย่าง สำหรับการใช้งาน flutter_bloc ซึ่งตัวนี้เป็น state management ที่ใช้งานได้ง่ายสุดๆเลย
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
